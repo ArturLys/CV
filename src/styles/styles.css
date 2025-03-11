@@ -1,10 +1,5 @@
-html {
-  transform: scale(1.5);
-  transform-origin: top left;
-  overflow-x: hidden;
-}
-
 body {
+  zoom: 1.5;
   font-family: "Lato", sans-serif;
   margin: 40px;
   padding: 0;
@@ -21,7 +16,7 @@ body {
 }
 
 .nav-btn {
-  background: #f4a5c3;
+  background: #614a8f;
   color: white;
   text-decoration: none;
   padding: 10px 20px;
@@ -33,7 +28,7 @@ body {
 }
 
 .nav-btn:hover {
-  background: #ff7fa5;
+  background: #8068af;
   transform: scale(1.05);
 }
 
